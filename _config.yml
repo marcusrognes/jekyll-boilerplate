@@ -1,0 +1,26 @@
+###########
+# site.title
+
+title:    'Jekyll Starter Theme V2'
+subtitle: 'Another Static Site Quick Starter Theme'
+
+
+nav:
+- { title: 'Welcome',              href: '/' }
+- { title: 'Page Two',             href: '/two.html' }
+- { title: 'Page Three',           href: '/three.html' }
+
+
+#########################
+# more settings
+
+markdown: kramdown
+
+sass:
+  sass_dir: css
+  style:    expanded
+
+exclude:
+- README.md
+- LICENSE.md
+
