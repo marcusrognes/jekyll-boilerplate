@@ -1,4 +1,5 @@
-# Jekyll Starter Theme V2
+# Jekyll boilerplate
+#### Based on Jekyll Starter Theme V2
 
 A more "advanced" starter theme, see the 
 [Jekyll Starter Theme V1](https://github.com/henrythemes/jekyll-starter-theme) for
