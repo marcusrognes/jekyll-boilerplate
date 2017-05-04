@@ -1,0 +1,14 @@
+{
+  "name": "new-homepage",
+  "version": "1.0.0",
+  "description": "A more \"advanced\" starter theme, see the  [Jekyll Starter Theme V1](https://github.com/henrythemes/jekyll-starter-theme) for a more \"basic\" version. The V2 includes:",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/psi 127.0.0.1:4000"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "psi": "^3.0.0"
+  }
+}
